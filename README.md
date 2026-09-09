@@ -3,7 +3,7 @@
 
 ### 👜  Current Status
 
-I' m looking for **Full-Time/ paid job opportunities**
+I' m looking for **Full-Time / paid job opportunities**
 Currently doing: ** Remote Web Development Intern** - Internship Letter Received
 
 ### 🚀 About This Portfolio
