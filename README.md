@@ -14,7 +14,7 @@ It includes: Home, About, Skills, Projects, contact pages.
 ### 📞 Contact Me 
 - **📷Email:** shehzeenliaquat0@gmail.com
 - **📱WhatsApp:** +92 318 3861982
-- **💻GitHub:** [github.com/shehzeenliaquat0-prog/portfolio-project](https://github.com/shehzeen)
+- **💻GitHub:** [github.com/shehzeenliaquat0-prog/portfolio-project](https://github.com/shehzeenliaquat0-prog/portfolio-project)
 - **📍Location:** Hyderabad, Sindh
 
 ### 📂📁 Skills
