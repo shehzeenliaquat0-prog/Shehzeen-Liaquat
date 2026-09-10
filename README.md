@@ -1,3 +1,6 @@
+
+![Profile Views](https://komarev.com)
+
 #👋 Hi, I' m Shehzeen liaquat Bugti
 ** Web Developer | HTML, CSS, LARAVEL**
 
